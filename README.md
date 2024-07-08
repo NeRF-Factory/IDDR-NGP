@@ -42,3 +42,6 @@ If you find this work useful, a citation will be appreciated via:
 
 # Acknowledgement
 The implementation is based on the [torch-ngp](https://github.com/ashawkey/torch-ngp).
+
+# Contact
+If you have any question, please feel free to contact **huangxl21@m.fudan.edu.cn**.
